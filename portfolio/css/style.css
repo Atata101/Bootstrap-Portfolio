@@ -30,3 +30,137 @@ header {
     padding: 10px;
     color: white;
 }
+
+.jumbo,
+#jumbo {
+    height: 450px;
+    margin-top: 20px;
+
+    font-family: Roboto, Oxygen;
+    font-size: 20px;
+}
+
+.card {
+    padding: 0px;
+    margin: 10px;
+}
+
+.sect {
+    display: grid;
+
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.sect1 {
+    display: grid;
+    place-items: center;
+    
+
+}
+
+.profile {
+
+    color: #ffffff;
+    justify-content: right;
+    background-color: #ffffff;
+
+}
+
+.contact {
+    padding: 30px;
+}
+
+#d1, #skills {
+
+    padding: 10px;
+
+}
+
+.me {
+    display: flex;
+    justify-content: space-between;
+
+    justify-content: center;
+    padding: 10px;
+}
+
+#about_me,
+form {
+    background-color: rgb(94, 169, 99);
+}
+
+#about_me {
+    margin-right: 15px;
+    padding: 10px;
+}
+
+.mine2 .a1 {
+    background-color: aquamarine;
+}
+
+
+
+.card {
+    height: 450px;
+    width: auto;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+.view {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.box1 {
+    align-content: center;
+    justify-content: center;
+    padding: 0 10px;
+    width: 200px;
+    box-shadow: 10px 10px rgb(83, 101, 44);
+
+}
+
+.box {
+    width: 80px;
+    box-shadow: 10px 10px rgb(83, 101, 44);
+
+
+}
+
+
+form {
+    width: 650px;
+}
+
+.socialMedia_list {
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    align-content: center;
+    justify-content: space-around;
+    list-style: none;
+   
+   
+}
+
+footer {
+    background-color: rgba(34, 15, 177, 0.856);
+    font-weight: 20px;
+    
+    padding: 1px;
+
+
+}
+
+#last, .socialMedia_item {
+    display: flex;
+    justify-content: space-around;
+    color: gold;
+}
